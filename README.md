@@ -19,7 +19,7 @@
 <a href="https://instagram.com/_sheetalsolankiii__05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sheetalsolankiii__05" height="30" width="40" /></a>
 <a href="https://kaggle.com/sheetalsolankii05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sheetalsolankii05" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sheetalsolankii1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sheetalsolankii1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@StudywithSolankii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@studywithsolankii" height="30" width="40" /></a>
+<a href="https://codepen.io/SheetalSolankii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@studywithsolankii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sheetalsolankii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheetalsolankii" height="30" width="40" /></a>
 </p>
 
